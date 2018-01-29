@@ -1,8 +1,8 @@
 {
   "name": "riskui",
   "version": "1.0.0",
-  "description": "The user interface for the Risk application",
-  "author": "Ian Anderson",
+  "description": "test-template",
+  "author": "",
   "scripts": {
     "lint": "tslint --project tsconfig.json -c tslint.json",
     "build": "webpack --config webpack.config.ts",
